@@ -1,7 +1,8 @@
 # My-Data-Engineering-Portfolio
 This is a collection of project repositories which demonstrate my proficiency with data engineering concepts by documenting my data engineering projects. Below are links to my Data Engineering portolion project repositories within Github.
 
-1. --> https://github.com/HubbellR/Kafka_Stock_Market_Streaming_Project
+1. ##Kafka Stock Market Streaming Project
+    --> https://github.com/HubbellR/Kafka_Stock_Market_Streaming_Project
 <br />
 
 The purpose of this Kafka stock market streaming project is to illustrate how one could create a full end to end streaming solution using a simulated streaming input API, a Kafka runtime running on am AWS EC2 server,

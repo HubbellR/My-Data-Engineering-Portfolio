@@ -10,6 +10,7 @@ The purpose of this Kafka stock market streaming project is to illustrate how on
 S3 storage buckets, AWS Glue, and AWS Athena, so that this data stream can be indefintely stored and queried using SQL using minimal overhead.
 
 <br />
+
 ## 1.  Kafka Stock Market Streaming Project 
 
 --> https://github.com/HubbellR/Data_Engineering_Power_BI_Databricks_Data_Factory_Project

@@ -9,10 +9,10 @@ S3 storage buckets, AWS Glue, and AWS Athena, so that this data stream can be in
 
 <br />
 2. --> https://github.com/HubbellR/Data_Engineering_Power_BI_Databricks_Data_Factory_Project
-   <br />
+
 This end to end data engineering project starts with a source CSV file which is then loaded into a MS sql server database. The database is then migrated to a data factory self-hosted instance. From here, a databricks cluster aggregates data. It is imported from the cluster to power BI where table is used to make an interactive dashboard.
 
-<br />
+
 3. --> https://github.com/HubbellR/Airflow_Fill_ETL_Pipeline_Using_Snowflake_Analyze_Realestate_Price_Data 
    <br />
 

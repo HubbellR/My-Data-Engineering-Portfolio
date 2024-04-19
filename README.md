@@ -17,6 +17,7 @@ S3 storage buckets, AWS Glue, and AWS Athena, so that this data stream can be in
 
 This end to end data engineering project starts with a source CSV file which is then loaded into a MS sql server database. The database is then migrated to a data factory self-hosted instance. From here, a databricks cluster aggregates data. It is imported from the cluster to power BI where table is used to make an interactive dashboard.
 
+<br />
 
 ## 3. Airflow Fill ETL Pipeline Using Snowflake Analyze Realestate Price Data
   
@@ -24,6 +25,8 @@ This end to end data engineering project starts with a source CSV file which is 
 
 
    This project is a full ETL Pipeline which goes from public realestate pricing data (from RedFin) to a fully analyzed product using Apache Airflow and Snowflake within an AWS server. For further details, please see readme file.
+
+   <br />
    
 ## 4. Azure Data Factory Real Time Employee Department Aggregation
 
@@ -31,16 +34,22 @@ This end to end data engineering project starts with a source CSV file which is 
    
 The purpose of this project is to take two .json sources of employee.json and department.json, and ultimately convert these sources into a joined .csv file incorporating both employee and deprtment data.
 
+<br />
+
 ## 6. Power BI HR Employee Satisfaction Attrition Dashboard
 
 --> https://github.com/HubbellR/Power_BI_HR_Employee_Satisfaction_Attrition_Dashboard
 
 This is a Power BI Dashboard build to help HR Track the omployee attrition, job satisfaction, employee age distribution, and education distribution.
+
+<br />
  
 ## 7. Power BI Patient Statistics Display
   --> https://github.com/HubbellR/Power_BI_Patient_Statistics_Display
 
  This is a Power BI dashboard illustrating inpatient and outpatient data to illustrate various aspects of a real world patient wait list.
+
+ <br />
 
 ## 8. Amazon Data Scraping General Purpose Project
 
@@ -48,11 +57,14 @@ This is a Power BI Dashboard build to help HR Track the omployee attrition, job 
 
 Here is an example of a web scraping script I wrote to get pricing data from amazon shopping web pages.
 
+<br />
 
 ## 9. Power BI Visualization Employee poll Results
    --> https://github.com/HubbellR/Power_BI_Visualization_W_Employee_poll_results
 
 This is a Power BI visualization of a poll taken internally which helped project managers understand the internal pay for Data Professionals. 
+
+<br />
 
 
 

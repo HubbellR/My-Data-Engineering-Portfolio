@@ -11,7 +11,7 @@ S3 storage buckets, AWS Glue, and AWS Athena, so that this data stream can be in
 
 <br />
 
-## 1.  Kafka Stock Market Streaming Project 
+## 2.  Data Engineering Power BI Databricks Data Factory Project
 
 --> https://github.com/HubbellR/Data_Engineering_Power_BI_Databricks_Data_Factory_Project
 

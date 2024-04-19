@@ -14,27 +14,27 @@ This end to end data engineering project starts with a source CSV file which is 
 
 
 3. --> https://github.com/HubbellR/Airflow_Fill_ETL_Pipeline_Using_Snowflake_Analyze_Realestate_Price_Data 
-   <br />
+
 
    This project is a full ETL Pipeline which goes from public realestate pricing data (from RedFin) to a fully analyzed product using Apache Airflow and Snowflake within an AWS server. For further details, please see readme file.
-<br />
-4. --> https://github.com/HubbellR/Azure_Data_Factory_Real_Time_Employee_Department_Aggregation
- <br />
+   
+5. --> https://github.com/HubbellR/Azure_Data_Factory_Real_Time_Employee_Department_Aggregation
+   
 The purpose of this project is to take two .json sources of employee.json and department.json, and ultimately convert these sources into a joined .csv file incorporating both employee and deprtment data.
-<br />
-5.  --> https://github.com/HubbellR/Power_BI_HR_Employee_Satisfaction_Attrition_Dashboard
- <br />
+
+6.  --> https://github.com/HubbellR/Power_BI_HR_Employee_Satisfaction_Attrition_Dashboard
+
 This is a Power BI Dashboard build to help HR Track the omployee attrition, job satisfaction, employee age distribution, and education distribution.
- <br />
-6. --> https://github.com/HubbellR/Power_BI_Patient_Statistics_Display
- <br />
+ 
+7. --> https://github.com/HubbellR/Power_BI_Patient_Statistics_Display
+
  This is a Power BI dashboard illustrating inpatient and outpatient data to illustrate various aspects of a real world patient wait list.
-<br />
-7. --> https://github.com/HubbellR/Amazon_Data_Scraping_General_Purpose
- <br />
+
+8. --> https://github.com/HubbellR/Amazon_Data_Scraping_General_Purpose
+
 Here is an example of a web scraping script I wrote to get pricing data from amazon shopping web pages.
 
-<br />
+
 9.  --> https://github.com/HubbellR/Power_BI_Visualization_W_Employee_poll_results
 
 This is a Power BI visualization of a poll taken internally which helped project managers understand the internal pay for Data Professionals. 

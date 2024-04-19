@@ -3,7 +3,7 @@ This is a collection of project repositories which demonstrate my proficiency wi
 
 ## 1.  Kafka Stock Market Streaming Project 
    
-    --> https://github.com/HubbellR/Kafka_Stock_Market_Streaming_Project
+   --> https://github.com/HubbellR/Kafka_Stock_Market_Streaming_Project
 <br />
 
 The purpose of this Kafka stock market streaming project is to illustrate how one could create a full end to end streaming solution using a simulated streaming input API, a Kafka runtime running on am AWS EC2 server,
@@ -19,7 +19,7 @@ This end to end data engineering project starts with a source CSV file which is 
 
 ## 3. Airflow Fill ETL Pipeline Using Snowflake Analyze Realestate Price Data
   
-    --> https://github.com/HubbellR/Airflow_Fill_ETL_Pipeline_Using_Snowflake_Analyze_Realestate_Price_Data 
+   --> https://github.com/HubbellR/Airflow_Fill_ETL_Pipeline_Using_Snowflake_Analyze_Realestate_Price_Data 
 
 
    This project is a full ETL Pipeline which goes from public realestate pricing data (from RedFin) to a fully analyzed product using Apache Airflow and Snowflake within an AWS server. For further details, please see readme file.
@@ -49,7 +49,7 @@ Here is an example of a web scraping script I wrote to get pricing data from ama
 
 
 ## 9. Power BI Visualization Employee poll Results
-     --> https://github.com/HubbellR/Power_BI_Visualization_W_Employee_poll_results
+   --> https://github.com/HubbellR/Power_BI_Visualization_W_Employee_poll_results
 
 This is a Power BI visualization of a poll taken internally which helped project managers understand the internal pay for Data Professionals. 
 

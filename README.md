@@ -2,6 +2,7 @@
 This is a collection of project repositories which demonstrate my proficiency with data engineering concepts by documenting my data engineering projects. Below are links to my Data Engineering portolion project repositories within Github.
 
 1. ##Kafka Stock Market Streaming Project
+   
     --> https://github.com/HubbellR/Kafka_Stock_Market_Streaming_Project
 <br />
 
